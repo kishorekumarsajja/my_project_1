@@ -16,7 +16,7 @@ jobs:
 
 
     steps:
-      - name: to identify the file structure
+      - name: Test
         run: echo "Hurray"
 
 
