@@ -17,10 +17,6 @@ jobs:
 
     steps:
       - name: to identify the file structure
-        run: ll -a
-
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+        run: echo "Hurray"
 
 
